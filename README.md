@@ -1,2 +1,2 @@
 # FirebaseUserAuthentication
-FirebaseUserAuthenticationy Email and password Demo
+FirebaseUserAuthentication by Email and password Demo
